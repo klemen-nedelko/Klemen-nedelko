@@ -6,7 +6,7 @@ Fullstack Developer
 
 * 🌍  I'm based in Ptuj
 * ✉️  You can contact me at [klemen.nedelko2@gmail.com](mailto:klemen.nedelko2@gmail.com)
-* 🚀  I'm currently working on [Ailton](http://ailton.vercel.app/)
+* 🚀  I'm currently working on [Ailton](http://ailton.vercel.app/) , [AiltonRepository](https://github.com/klemen-nedelko/Ailton)
 * 🧠  I'm learning Java Spring Boot, Angular
 
 ### Skills
