@@ -1,7 +1,7 @@
 Hi 👋 My name is Klemen Nedelko
 ===============================
 
-Web Fullstack Developer
+Fullstack Developer
 -----------------------
 
 * 🌍  I'm based in Ptuj
