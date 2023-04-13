@@ -8,6 +8,10 @@ Fullstack Developer
 * ✉️  You can contact me at [klemen.nedelko2@gmail.com](mailto:klemen.nedelko2@gmail.com)
 * 🚀  I'm currently working on [Ailton](http://ailton.vercel.app/) , [AiltonRepository](https://github.com/klemen-nedelko/Ailton)
 * 🧠  I'm learning Java Spring Boot, Angular
+* Projects website
+
+-Weather App for Maribor, written in Angular
+https://angular-weather-bay.vercel.app/
 
 ### Skills
 
