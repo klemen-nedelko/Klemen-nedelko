@@ -10,8 +10,13 @@ Fullstack Developer
 * 🧠  I'm learning Java Spring Boot, Angular
 * Projects website
 
--Weather App for Maribor, written in Angular
+-Weather App for Maribor, in Angular
 https://angular-weather-bay.vercel.app/
+-Millo Admin:
+https://millo-admin.vercel.app/
+-Millo Store:
+https://millo-store.vercel.app/
+
 
 ### Skills
 
