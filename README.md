@@ -7,15 +7,27 @@ Fullstack Developer
 * 🌍  I'm based in Ptuj
 * ✉️  You can contact me at [klemen.nedelko2@gmail.com](mailto:klemen.nedelko2@gmail.com)
 * 🚀  I'm currently working on [Millo]((https://millo-store.vercel.app/)) , [Millo admin]((https://millo-admin.vercel.app/))
-* 🧠  I'm learning Java Spring Boot, Angular
+* 🧠  I'm learning Typescript, NextJS
 * Projects website
 
+<p align="left">
 -Weather App for Maribor, in Angular
 https://angular-weather-bay.vercel.app/
+ <br/>
+ <hr/>
 -Millo Admin:
 https://millo-admin.vercel.app/
+ <br/>
 -Millo Store:
 https://millo-store.vercel.app/
+ <br/>
+ <p>Used technologies:</p>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"><img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/136815194/254798345-5f8c622c-c217-4649-b0a9-7e0ee24bd704.png"><img height="50" src="https://user-images.githubusercontent.com/136815194/254798345-5f8c622c-c217-4649-b0a9-7e0ee24bd704.png" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"><img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" style="max-width: 100%;"></a>
+<hr/>
+</p>
 
 
 ### Skills
