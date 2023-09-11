@@ -9,10 +9,13 @@ Frontend Developer
 * 🚀  I'm currently working on [Millo]((https://millo-store.vercel.app/)) , [Millo admin]((https://millo-admin.vercel.app/))
 * 🧠  I'm learning Typescript, NextJS
 * 
- <br/>
+-----------------------
+ <hr/>
  Thesis:
-<a href="https://youtu.be/5_9iZgPcZkw">https://youtu.be/5_9iZgPcZkw</a>
- <br/>
+<a href="https://youtu.be/5_9iZgPcZkw"  target="_blank">https://youtu.be/5_9iZgPcZkw</a>
+ <hr/>
+ 
+-----------------------
 * Projects website
 
 <p align="left">
