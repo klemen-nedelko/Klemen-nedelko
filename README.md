@@ -1,13 +1,18 @@
 Hi 👋 My name is Klemen Nedelko
 ===============================
 
-Fullstack Developer
+Frontend Developer
 -----------------------
 
 * 🌍  I'm based in Ptuj
 * ✉️  You can contact me at [klemen.nedelko2@gmail.com](mailto:klemen.nedelko2@gmail.com)
 * 🚀  I'm currently working on [Millo]((https://millo-store.vercel.app/)) , [Millo admin]((https://millo-admin.vercel.app/))
 * 🧠  I'm learning Typescript, NextJS
+* 
+ <br/>
+ Thesis:
+<a href="https://youtu.be/5_9iZgPcZkw">https://youtu.be/5_9iZgPcZkw</a>
+ <br/>
 * Projects website
 
 <p align="left">
