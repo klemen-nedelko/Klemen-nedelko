@@ -12,6 +12,7 @@ Frontend Developer
 -----------------------
  <hr/>
  Thesis:
+ <p> Video portal, based on user membership through buyed product</p>
 <a href="https://youtu.be/5_9iZgPcZkw"  target="_blank">https://youtu.be/5_9iZgPcZkw</a>
  <hr/>
  
