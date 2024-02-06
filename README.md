@@ -7,7 +7,7 @@ Frontend Developer
 * 🌍  I'm based in Ptuj
 * ✉️  You can contact me at [klemen.nedelko2@gmail.com](mailto:klemen.nedelko2@gmail.com)
 * 🚀  I'm currently working on diverse Projects :)
-* 🧠  I'm learning Delphi, .NET
+* 🧠  I'm learning Delphi, .NET, Pascal, Firebird
 -----------------------
  <hr/>
  Thesis:
