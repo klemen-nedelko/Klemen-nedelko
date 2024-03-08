@@ -1,7 +1,7 @@
 Hi 👋 My name is Klemen Nedelko
 ===============================
 
-Frontend Developer
+Sofware Developer
 -----------------------
 
 * 🌍  I'm based in Ptuj
